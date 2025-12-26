@@ -1,0 +1,5 @@
+{
+  "name": "HC分镜剪刀 (HC Slicing Scissor)",
+  "description": "A high-performance local tool for slicing AI-generated image grids into individual shot assets. All processing is done in-browser for maximum privacy and speed.",
+  "requestFramePermissions": []
+}
